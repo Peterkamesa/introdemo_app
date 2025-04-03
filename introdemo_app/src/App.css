@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #080808aa;
 }
 
 .logo {
@@ -34,7 +35,9 @@
 }
 
 .card {
+  text-align: center;
   padding: 2em;
+  color: #faf9f6;
 }
 
 .read-the-docs {
